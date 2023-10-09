@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @matejkubovcak
 - 👀 I’m interested in data science, bioinformatics and neural networks
 - 🌱 I’m currently learning machine learning 
-- 💞️ I’m looking to collaborate on biology-related projects
 - 📫 Reach me on kubovcam@natur.cuni.cz
 
 <!---
